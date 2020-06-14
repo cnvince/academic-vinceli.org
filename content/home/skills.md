@@ -39,7 +39,7 @@ subtitle = ""
   description = "60%"  
 
 [[feature]]
-  icon = "searchengin"
+  icon = "search"
   icon_pack = "fas"
   name = "Search"
   description = "60%"  
