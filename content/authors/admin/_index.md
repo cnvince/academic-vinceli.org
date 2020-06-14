@@ -1,12 +1,13 @@
 ---
+title: Dr. Vincent Li
+role: Search and Machine Learning Expert
+avatar_filename: portrait.jpg
 organizations:
   - name: Vinceli.org
     url: ""
 superuser: true
 authors:
   - admin
-title: Dr. Vincent Li
-role: Search and Machine Learning Expert
 bio: My research interests include search, machine learning, and artificial
   intelligence techniques for search and ranking problems.
 interests:
