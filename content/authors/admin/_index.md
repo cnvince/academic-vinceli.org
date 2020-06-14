@@ -7,8 +7,9 @@ authors:
   - admin
 title: Vincent Li
 role: Search and Machine Learning Expert
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include search, relevance improvement, machine
+  learning, and using machine learning techniques to solve search and ranking
+  problems.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
