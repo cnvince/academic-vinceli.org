@@ -19,15 +19,9 @@ social:
   - icon: LinkedIn
     icon_pack: fas
     link: https://www.linkedin.com/in/vincent-li-ba259856/
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=b4SZTDwAAAAJ&hl=en&authuser=4
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -39,7 +33,7 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-email: ""
+email: vli@vinceli.org
 user_groups:
   - Researchers
   - Visitors
