@@ -24,7 +24,7 @@ social:
     link: https://scholar.google.com/citations?user=b4SZTDwAAAAJ&hl=en&authuser=4
   - link: mailto:vli@vinceli.org
     icon_pack: fas
-    icon: email
+    icon: envelope
 education:
   courses:
     - course: PhD in Computer Science
