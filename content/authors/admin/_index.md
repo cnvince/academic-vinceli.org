@@ -16,8 +16,8 @@ interests:
   - Recommender Systems
   - Ranking Problems
 social:
-  - icon: LinkedIn
-    icon_pack: fas
+  - icon: linkedIn
+    icon_pack: fab
     link: https://www.linkedin.com/in/vincent-li-ba259856/
   - icon: google-scholar
     icon_pack: ai
