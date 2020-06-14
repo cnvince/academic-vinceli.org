@@ -31,6 +31,18 @@ subtitle = ""
   icon_pack = "fas"
   name = "Statistics"
   description = "80%"  
+
+[[feature]]
+  icon = "Robot"
+  icon_pack = "fas"
+  name = "Machine Learning"
+  description = "60%"  
+
+[[feature]]
+  icon = "searchengin"
+  icon_pack = "fas"
+  name = "Search"
+  description = "60%"  
   
 [[feature]]
   icon = "camera-retro"
