@@ -24,15 +24,15 @@ social:
     link: https://scholar.google.com/citations?user=b4SZTDwAAAAJ&hl=en&authuser=4
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: RMIT University
+      year: 2016
+    - course: Master with Honor in Computing
+      institution: Australian National University
+      year: 2014
+    - course: BSc in Software Engineering
+      institution: Soochow University
+      year: 2007
 email: vli@vinceli.org
 user_groups:
   - Researchers
