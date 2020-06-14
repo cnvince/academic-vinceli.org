@@ -33,7 +33,7 @@ subtitle = ""
   description = "80%"  
 
 [[feature]]
-  icon = "Robot"
+  icon = "robot"
   icon_pack = "fas"
   name = "Machine Learning"
   description = "60%"  
