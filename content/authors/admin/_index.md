@@ -1,6 +1,6 @@
 ---
 organizations:
-  - name: Stanford University
+  - name: Vinceli.org
     url: ""
 superuser: true
 authors:
@@ -13,6 +13,8 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
+  - Recommender Systems
+  - Ranking Problems
 social:
   - icon: envelope
     icon_pack: fas
@@ -44,4 +46,6 @@ user_groups:
 ---
 Dr. Vincent Li is an applied search scientist of search and artificial intelligence. His research interests include search, machine learning, and artificial intelligence techniques for search and ranking problems.
 
-Dr. Vincent Li received his Ph.D from RMIT university in 2019.
+Dr. Vincent Li received his Ph.D from RMIT university in 2019. His research topic was "Transfer Learning for Information Retrieval", which he studied methodologies to transfer the knowledge from one mature search engine to a new search engine without any training data collected.
+
+HE has a decent understanding of how modern search engine works, and how to apply artificial intelligence techniques to search engines at a large scale to improve the relevance, ranking effectiveness to improve users' satisfaction and business profits. 
