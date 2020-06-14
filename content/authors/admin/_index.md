@@ -5,11 +5,10 @@ organizations:
 superuser: true
 authors:
   - admin
-title: Vincent Li
+title: Dr. Vincent Li
 role: Search and Machine Learning Expert
-bio: My research interests include search, relevance improvement, machine
-  learning, and using machine learning techniques to solve search and ranking
-  problems.
+bio: My research interests include search, machine learning, and artificial
+  intelligence techniques for search and ranking problems.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -43,7 +42,6 @@ user_groups:
   - Researchers
   - Visitors
 ---
+Dr. Vincent Li is an applied search scientist of search and artificial intelligence. His research interests include search, machine learning, and artificial intelligence techniques for search and ranking problems.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Vincent Li received his Ph.D from RMIT university in 2019.
