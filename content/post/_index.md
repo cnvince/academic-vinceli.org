@@ -17,6 +17,7 @@ featured: false
 image:
   filename: featured.jpg
   preview_only: false
+  focal_point: SMART
 ---
 Search is one of the key areas where big companies have spent lots of investment on. Working as an applied search scientist, I was always questioned why we still spend so much time on a problem that has been solved by many platforms like Elasticsearch, Luence and many others? The truth is, unless you are familar with the area, you probably won't realise how challenging the problem is.
 
