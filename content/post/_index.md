@@ -13,10 +13,10 @@ view: 2
 header:
   caption: ""
   image: ""
-featured: false
+featured: true
 image:
   filename: featured.jpg
-  preview_only: false
+  preview_only: true
 ---
 Search is one of the key areas where big companies have spent lots of investment on. Working as an applied search scientist, I was always questioned why we still spend so much time on a problem that has been solved by many platforms like Elasticsearch, Luence and many others? The truth is, unless you are familar with the area, you probably won't realise how challenging the problem is.
 
@@ -26,13 +26,13 @@ Search is one of the key areas where big companies have spent lots of investment
 
 Search belongs to a wider discipline called information retrieval. Information retrieval is about finding information to satisfying individuals’ needs and search is an application of information retrieval.
 
-**So, what is a perfect search system?** 
+**So, what is a perfect search system?**
 
 A perfect search system should understand what's happening in your mind given a few keywords you typed in the search box, and being able to return all the information you wanted as a really fast speed!
 
 One of the key challenging in information retrieval/search engines is to understand the information needs given the user input. For example, for a typical search engine, the user inputs are keywords. Users come to a search engine with a specific or blur information need, and then formalise a search query to give to the search engine. In most cases, users hope that the search engine can understand what is looked for, rather than expecting the search engine to return documents with certain keywords.
 
-For example, if you search for “*machine learning books*”, your information need is not looking for some web documents which contains the three keywords: **machine**, **learning**, **books**. Probably you will get a book called “The Art of Fixing Things, Principles of Machines, and How to Repair Them”. 
+For example, if you search for “*machine learning books*”, your information need is not looking for some web documents which contains the three keywords: **machine**, **learning**, **books**. Probably you will get a book called “The Art of Fixing Things, Principles of Machines, and How to Repair Them”.
 
 ![](screen-shot-2020-06-15-at-3.17.40-pm.png)
 
