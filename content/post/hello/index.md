@@ -17,7 +17,7 @@ image:
 ---
 Search is one of the key areas where big companies have spent lots of investment on. Working as an applied search scientist, I was always questioned why we still spend so much time on a problem that has been solved by many platforms like Elasticsearch, Luence and many others? The truth is, unless you are familar with the area, you probably won't realise how challenging the problem is.
 
-![Search](photo-1502240868472-18259bc0f863.jpeg)
+![Search](anthony-martino-6atqnsjmojo-unsplash.jpg)
 
 Search belongs to a wider discipline called information retrieval. Information retrieval is about finding information to satisfying individuals’ needs and search is an application of information retrieval.
 
@@ -29,11 +29,11 @@ One of the key challenging in information retrieval/search engines is to underst
 
 For example, if you search for “*machine learning books*”, your information need is not looking for some web documents which contains the three keywords: **machine**, **learning**, **books**. Probably you will get a book called “The Art of Fixing Things, Principles of Machines, and How to Repair Them”.
 
-![](screen-shot-2020-06-15-at-3.17.40-pm.png)
+![](screen-shot-2020-06-15-at-8.21.20-pm.png)
 
 Now you might think, well, why not restrict the keywords matching so that you’ll match exactly the phrase. It might make sense if you are searching for a book called “machine learning books”. However, if you are searching for some books on machine learning technology, you probably won’t get what you want. For example, you won’t find the famous book: “The elements of statistical learning”!
 
-![](screen-shot-2020-06-15-at-3.24.29-pm.png)
+![](screen-shot-2020-06-15-at-8.24.42-pm.png)
 
 **Beyond finding the relevant documents**
 
