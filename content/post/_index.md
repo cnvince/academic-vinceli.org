@@ -8,7 +8,7 @@ summary: Search is one of the key areas where big companies have spent lots of
   platforms like Elasticsearch, Luence and many others? The truth is, unless you
   are familar with the area, you probably won't realise how challenging the
   problem is.
-draft: true
+draft: false
 view: 2
 header:
   caption: ""
@@ -30,24 +30,42 @@ Search belongs to a wider discipline called information retrieval. Information r
 
 A perfect search system should understand what's happening in your mind given a few keywords you typed in the search box, and being able to return all the information you wanted as a really fast speed!
 
-![robot](lenin-estrada-oi1toozskbw-unsplash.jpg)
+One of the key challenging in information retrieval/search engines is to understand the information needs given the user input. For example, for a typical search engine, the user inputs are keywords. Users come to a search engine with a specific or blur information need, and then formalise a search query to give to the search engine. In most cases, users hope that the search engine can understand what is looked for, rather than expecting the search engine to return documents with certain keywords.
 
-So, let’s go back to the search problems. If search for “machine learning books”, your information need is not looking for some web documents which contains the three keywords: machine, learning, books. Probably you will get a book called “learning machine mechanics”. Now you might think, well, why not restrict the keywords matching so that you’ll match exactly the phrase. It might make sense if you are searching for a book called “machine learning books”. However, if you are searching for some books on machine learning technology, you probably won’t get what you want. For example, you won’t find the famous book: “The elements of statistical learning”!
+For example, if you search for “*machine learning books*”, your information need is not looking for some web documents which contains the three keywords: **machine**, **learning**, **books**. Probably you will get a book called “The Art of Fixing Things, Principles of Machines, and How to Repair Them”. 
 
-Imagine you now have a solution to understand the semantics of the keywords, now you have solved the search problems? No! Imagine how many search for “best restaurant in Melbourne”. You figure out the person is looking for a restaurant, but you definitely don’t want to return a random list of restaurants to the person. Don’t expect people to look at your search results over the second page! Established research has found that people tend to look at the first 10 search results only. As a result, the ranking quality of a search engine is really important, and the ranking will be based on a lot of factors: relevance, document quality, authority, popularity, personalisation, etc.
+![](screen-shot-2020-06-15-at-3.17.40-pm.png)
 
-Now you might say, let’s use machine learning algorithms to solve the ranking problems. Yes, you can use machine learning to rank documents. However, it may be more complicated than you might thought. Ranking is not as straightforward as classification algorithms. You training instance is not a single document, instead, it is one query and a document, and you’ll need to know how to represent this relationship.
 
-Once you got the representation of query-document pairs, you’ll need to design an objective function to optimise a function that predicts the relevance labels. There are a few questions though: what is your objective function? what is your relevance label? how this learned function can be applied?
 
-At this stage, many of you might think, you can train a classification algorithm to predict whether a pair is relevant or not. There are couple of reasons why this doesn’t work: the binary relevance labels don’t fully represent the reality: some documents are more preferable than others; the definition of relevance varies across different queries: term matching may be important for some queries but not others, for example, the machine learning books examples; you simply cannot get labels for the full set as it does not scale. In the future posts, I’ll show you how those problems have been tackled with so-called learning-to-rank algorithms.
+Now you might think, well, why not restrict the keywords matching so that you’ll match exactly the phrase. It might make sense if you are searching for a book called “machine learning books”. However, if you are searching for some books on machine learning technology, you probably won’t get what you want. For example, you won’t find the famous book: “The elements of statistical learning”!
 
-Imagine if you have a good machine learning solution to solve the ranking problems, now you think, let’s get some labels! Obtaining labels for search tasks are not easy. You may need to get a large amount of search queries and ask some annotators to rate the relevance of queries and documents in your corpus, this is only doable if you got a few hundreds of documents. Instead, you’ll need get a subset of documents for each query for annotations, and maintaining the quality of annotations is hard! Okay, how about user behaviour, like clicks? Yes, clicks and other types of implicit user feedbacks have been studied for inferring relevance labels. However, again, it’s a bit tricky. Research has shown that users are less likely to engage with the document as the ranking positions goes down, which means that if someone didn’t click on the last results on the second page, it doesn’t mean that the document is irrelevant, likewise, if they click on the first document returned, it doesn’t mean that the first document is always relevant. Apart from this click bias, there are other factors attributed to the behaviours, attractiveness, freshness, etc. The challenge of getting relevance labels online also makes it challenging to evaluate search performance online.
+
+
+![](screen-shot-2020-06-15-at-3.24.29-pm.png)
+
+
+
+**Beyond finding the relevant documents**
+
+Imagine you now have a solution to understand the semantics of the keywords, now you have solved the search problems? No! Imagine how many search for “best restaurant in Melbourne”. You figure out the person is looking for a restaurant, but you definitely don’t want to return a random list of restaurants to the person. Don’t expect people to look at your search results over **the second page**! Established research has found that people tend to look at the **first 10 search results** only. As a result, the ranking quality of a search engine is really important, and the ranking will be based on a lot of factors: relevance, document quality, authority, popularity, personalisation, etc.
+
+If you are building a search engine for an ecommerce store, the properly ranking is definitely the key to improve your profit. Imagine you have a search engine that can understand what your customer is looking for, and always return relevant and personalised products to the user!
+
+**Efficiency in search**
 
 The other challenging part of search is the requirement of efficiency. Even if you come up with a genius solution, it needs to be under 200ms! That has been a serious constraint for many machine learning algorithms.
 
 Search is a quite challenging problem and no one has a good answer for it yet. However, both industries and academics have been trying to come up with various solutions.
 
-In the next posts, I’ll try to cover this topic from different angles.
+**Understand your search performance**
 
-*
+ As the 19 century mathematical phyisicitist William Thomas said:
+
+> If you can't measure it you can't improve it!
+
+Measuring the performance of a search engine is challenging too. Business usually monitors their sales performance, which is not directly attributed to the search performance.
+
+In the academic community, it has been year-by-year research on how to properly evaluate the search performance. A good search system should return search results that are most relevant and rank them on top of the search results. However, it is not straightforward to know whether results are relevant, and whether there are missing relevant results from current system.
+
+ In the later post, I'll explain how practically search evaluation works.
