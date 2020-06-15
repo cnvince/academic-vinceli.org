@@ -1,4 +1,6 @@
 ---
+draft: false
+view: 2
 title: Why search is so hard
 subtitle: Understanding the challenges for developing a search engine
 date: 2020-06-14T23:51:34.718Z
@@ -8,15 +10,13 @@ summary: Search is one of the key areas where big companies have spent lots of
   platforms like Elasticsearch, Luence and many others? The truth is, unless you
   are familar with the area, you probably won't realise how challenging the
   problem is.
-draft: false
-view: 2
 header:
   caption: ""
   image: ""
 featured: true
 image:
   filename: featured.jpg
-  preview_only: true
+  preview_only: false
 ---
 Search is one of the key areas where big companies have spent lots of investment on. Working as an applied search scientist, I was always questioned why we still spend so much time on a problem that has been solved by many platforms like Elasticsearch, Luence and many others? The truth is, unless you are familar with the area, you probably won't realise how challenging the problem is.
 
