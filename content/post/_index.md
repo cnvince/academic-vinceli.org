@@ -13,7 +13,7 @@ summary: Search is one of the key areas where big companies have spent lots of
 header:
   caption: ""
   image: ""
-featured: true
+featured: false
 image:
   filename: featured.jpg
   preview_only: false
