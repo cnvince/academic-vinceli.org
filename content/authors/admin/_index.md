@@ -46,6 +46,4 @@ Dr. Vincent Li is an applied search scientist of search and artificial intellige
 
 Dr. Vincent Li received his Ph.D from RMIT university in 2019. His research topic was "Transfer Learning for Information Retrieval", which he studied methodologies to transfer the knowledge from one mature search engine to a new search engine without any training data collected.
 
-He has a decent understanding of how modern search engine works, and how to apply artificial intelligence techniques to search engines at a large scale to improve the relevance, ranking effectiveness to improve users' satisfaction and business profits. 
-
-Aside from his professional life, he also helped his wife founded a floral and botanical art studio [Nan Floral Art](https://www.nanfloralart.com).
+He has a decent understanding of how modern search engine works, and how to apply artificial intelligence techniques to search engines at a large scale to improve the relevance, ranking effectiveness to improve users' satisfaction and business profits.
