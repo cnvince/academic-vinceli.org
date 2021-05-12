@@ -1,6 +1,6 @@
 ---
 title: Dr. Vincent Li
-role: Search and Machine Learning Expert
+role: Search and Machine Learning Scientist
 avatar_filename: portrait.jpg
 organizations:
   - name: Vinceli.org
