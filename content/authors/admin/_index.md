@@ -48,4 +48,4 @@ Dr. Vincent Li received his Ph.D from RMIT university in 2019. His research topi
 
 He has a decent understanding of how modern search engine works, and how to apply artificial intelligence techniques to search engines at a large scale to improve the relevance, ranking effectiveness to improve users' satisfaction and business profits.
 
-I'm also a co-organiser of the [Melbourne Search & Recommendation Meetup Group](https://www.meetup.com/melbourne-search/).
+He also is a co-organiser of the [Melbourne Search & Recommendation Meetup Group](https://www.meetup.com/melbourne-search/).
