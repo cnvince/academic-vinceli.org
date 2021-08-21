@@ -18,7 +18,7 @@ links:
     name: RSVP
 event: Melbourne Search and Recommendation Group
 event_url: https://www.meetup.com/melbourne-search/events/280203051/
-publishDate: 2021-08-21T01:13:41.901Z
+publishDate: 2021-08-21T01:36:39.326Z
 featured: true
 authors:
   - Aritra Mandal
