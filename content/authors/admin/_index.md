@@ -5,6 +5,7 @@ avatar_filename: portrait.jpg
 organizations:
   - name: Vinceli.org
     url: ""
+  - name: Apeiros Lab
 superuser: true
 authors:
   - admin
@@ -24,6 +25,9 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=b4SZTDwAAAAJ&hl=en&authuser=4
   - link: mailto:vli@vinceli.org
+    icon_pack: fas
+    icon: envelope
+  - link: "mailto: vli@apeiros.ai"
     icon_pack: fas
     icon: envelope
 education:
@@ -48,4 +52,6 @@ Dr. Vincent Li received his Ph.D from RMIT university in 2019. His research topi
 
 He has a decent understanding of how modern search engine works, and how to apply artificial intelligence techniques to search engines at a large scale to improve the relevance, ranking effectiveness to improve users' satisfaction and business profits.
 
-He also is a co-organiser of the [Melbourne Search & Recommendation Meetup Group](https://www.meetup.com/melbourne-search/).
+Dr. Vincent has helped Australia's largest supermarket Coles to rebuild their search engine with AI techniques.
+
+He also is a co-organiser of the [Melbourne Search & Recommendation Meetup Group](https://www.meetup.com/melbourne-search/) and also run a tech blog site [productsearch.ai](https://www.productsearch.ai).
