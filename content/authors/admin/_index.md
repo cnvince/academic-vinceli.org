@@ -46,12 +46,14 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Dr. Vincent Li is an applied search scientist of search and artificial intelligence. His research interests include search, machine learning, and artificial intelligence techniques for search and ranking problems.
+Dr. Vincent Li is an applied search scientist with a passion for solving complex business problems using search and artificial intelligence techniques. He earned his Ph.D. from RMIT University, where he conducted research on search, machine learning, and artificial intelligence techniques for search and ranking problems.
 
-Dr. Vincent Li received his Ph.D from RMIT university in 2019. His research topic was "Transfer Learning for Information Retrieval", which he studied methodologies to transfer the knowledge from one mature search engine to a new search engine without any training data collected.
+His research interests include search, machine learning, and artificial intelligence techniques, and he has a particular interest in applying state-of-the-art techniques, such as large language models like GPT, to solve business problems.
 
-He has a decent understanding of how modern search engine works, and how to apply artificial intelligence techniques to search engines at a large scale to improve the relevance, ranking effectiveness to improve users' satisfaction and business profits.
 
-Dr. Vincent has helped Australia's largest supermarket Coles to rebuild their search engine with AI techniques.
 
-He also is a co-organiser of the [Melbourne Search & Recommendation Meetup Group](https://www.meetup.com/melbourne-search/) and also run a tech blog site [productsearch.ai](https://www.productsearch.ai).
+Dr. Li has extensive industry experience providing consultation services to companies on search and recommendation problems. He has helped numerous companies across Australia optimize their search capabilities and improve their search engine's performance. One notable example of his work includes rebuilding the search engine of Australia's largest supermarket, Coles, using AI techniques.
+
+
+
+As the organizer of the [Melbourne Search & Recommendation Meetup Group](https://www.meetup.com/melbourne-search/) and the author of a tech blog site, [productsearch.ai](http://productsearch.ai), Dr. Li is committed to advancing the field of search and AI. With his practical approach and extensive knowledge, he is a trusted and respected expert in the field, and a valued partner for companies seeking to optimize their search and recommendation capabilities.
