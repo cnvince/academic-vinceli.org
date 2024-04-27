@@ -32,6 +32,20 @@ date_format = "Jan 2006"
   * Enhance data platform for search and recommendation data tracking and analysis
   """
 [[experience]]
+  title = "Senior Data Scientist"
+  company = "Canva"
+  company_url = ""
+  location = "Sydney"
+  date_start = "2022-03-01"
+  date_end = "2023-01-30"
+  description = """
+  Responsibilities include:
+
+  * Online and offline evaluation for search and recommendation systems
+  * Apply state-of-art Machine Learning techniques to search relevance 
+  * Enhance data platform for search and recommendation data tracking and analysis
+  """
+[[experience]]
   title = "Search Science Consultant"
   company = "Coles Ltd"
   company_url = ""
