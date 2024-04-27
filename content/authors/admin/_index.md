@@ -1,11 +1,12 @@
 ---
 title: Dr. Vincent Li
-role: Search and Machine Learning Scientist
+role: Data and AI/ML Lead
 avatar_filename: portrait.jpg
 organizations:
   - name: Vinceli.org
     url: ""
-  - name: Apeiros Lab
+  - name: Programa
+    url: https://www.programa.com
 superuser: true
 authors:
   - admin
@@ -46,14 +47,10 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Dr. Vincent Li is an applied search scientist with a passion for solving complex business problems using search and artificial intelligence techniques. He earned his Ph.D. from RMIT University, where he conducted research on search, machine learning, and artificial intelligence techniques for search and ranking problems.
+I am currently the Head of Data, AI/ML at Programa, where I focus on applying artificial intelligence and machine learning to solve complex business problems and drive innovation. My academic journey led me to a Ph.D. from RMIT University, where I delved into the complexities of search and ranking algorithms.
 
-His research interests include search, machine learning, and artificial intelligence techniques, and he has a particular interest in applying state-of-the-art techniques, such as large language models like GPT, to solve business problems.
+Previously, I had the opportunity to enhance the search capabilities at Canva. I also spearheaded projects at Coles and Seek, focusing on integrating AI to optimize search and recommendation systems, which significantly improved operational efficiencies and user satisfaction.
 
+My passion lies in the intersection of academia and industry. I believe that blending theoretical knowledge with practical applications yields the most innovative solutions. I also run the[ Melbourne Search & Recommendation Meetup Group](https://www.meetup.com/melbourne-search/) hoping to foster a community that embraces continuous learning and application of AI in search & recommendation.
 
-
-Dr. Li has extensive industry experience providing consultation services to companies on search and recommendation problems. He has helped numerous companies across Australia optimize their search capabilities and improve their search engine's performance. One notable example of his work includes rebuilding the search engine of Australia's largest supermarket, Coles, using AI techniques.
-
-
-
-As the organizer of the [Melbourne Search & Recommendation Meetup Group](https://www.meetup.com/melbourne-search/) and the author of a tech blog site, [productsearch.ai](http://productsearch.ai), Dr. Li is committed to advancing the field of search and AI. With his practical approach and extensive knowledge, he is a trusted and respected expert in the field, and a valued partner for companies seeking to optimize their search and recommendation capabilities.
+I am committed to mentoring and guiding the next generation of AI professionals and researchers, ensuring they can bridge the gap between theoretical research and real-world applications.
