@@ -1,26 +1,34 @@
 +++
 # Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+widget = "experience"
+headless = true
+active = true
+weight = 40
 
 title = "Experience"
 subtitle = ""
 
-# Date format for experience
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
-# Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[experience]]
+  title = "Head of Data and AI/ML"
+  company = "Programa"
+  company_url = "https://programa.design"
+  location = "Melbourne"
+  date_start = "2023-01-31"
+  date_end = ""
+  description = """
+  Leading the data and AI/ML function to build the infrastructure, analytics, and machine learning systems behind the world’s largest interior design product database. Responsibilities include:
+  
+  * Building AI-powered product discovery and search systems
+  * Leading a team across data engineering, analytics, and ML
+  * Driving AI vision and strategy across multiple product verticals
+  """
+
 [[experience]]
   title = "Senior Data Scientist"
   company = "Canva"
-  company_url = ""
+  company_url = "https://www.canva.com"
   location = "Sydney"
   date_start = "2022-03-01"
   date_end = "2023-01-30"
@@ -28,51 +36,38 @@ date_format = "Jan 2006"
   Responsibilities include:
 
   * Online and offline evaluation for search and recommendation systems
-  * Apply state-of-art Machine Learning techniques to search relevance 
-  * Enhance data platform for search and recommendation data tracking and analysis
+  * Applying state-of-the-art machine learning techniques to search relevance
+  * Enhancing the data platform for search and recommendation tracking and analysis
   """
-[[experience]]
-  title = "Senior Data Scientist"
-  company = "Canva"
-  company_url = ""
-  location = "Sydney"
-  date_start = "2022-03-01"
-  date_end = "2023-01-30"
-  description = """
-  Responsibilities include:
 
-  * Online and offline evaluation for search and recommendation systems
-  * Apply state-of-art Machine Learning techniques to search relevance 
-  * Enhance data platform for search and recommendation data tracking and analysis
-  """
 [[experience]]
   title = "Search Science Consultant"
   company = "Coles Ltd"
-  company_url = ""
+  company_url = "https://www.coles.com.au"
   location = "Melbourne"
   date_start = "2020-08-30"
   date_end = "2022-02-18"
   description = """
   Responsibilities include:
 
-  * Building AI-powered search engines for multiple purposes
-  * Apply state-of-art Machine Learning and AI techniques to search and matching problems to improve business metrics and users' satisfactions
-  * Scientific approaches for search evaluation
+  * Building AI-powered search engines for retail applications
+  * Applying machine learning and AI to improve search, matching, and user satisfaction
+  * Designing and running scientific search evaluation frameworks
   """
+
 [[experience]]
   title = "Applied Search Scientist"
   company = "SEEK Ltd"
-  company_url = ""
+  company_url = "https://www.seek.com.au"
   location = "Melbourne"
   date_start = "2017-10-16"
   date_end = "2020-04-17"
   description = """
   Responsibilities include:
 
-  * Search engine performance evaluation
-  * Search engine performaance optimisation
-  * Conduct research to improve our understanding of users and how to properly evaluate search engine
-  *
+  * Search engine performance evaluation and optimization
+  * Conducting research to understand user behavior and improve search systems
+  * Designing metrics and experiments for robust search evaluation
   """
 
 [[experience]]
@@ -82,6 +77,7 @@ date_format = "Jan 2006"
   location = "Melbourne"
   date_start = "2016-10-01"
   date_end = "2017-01-01"
-  description = """Conduct research to understand the performance of a salient entity recognition component of the company"""
-
+  description = """
+  Conducted research to evaluate and improve salient entity recognition algorithms for the company’s NLP platform.
+  """
 +++
